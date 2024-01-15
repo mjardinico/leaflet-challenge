@@ -4,7 +4,9 @@
 * Date Submitted: Jan 15, 2024
 
 ### Project Overview
-`The primary objective of this project is to create a visualization map of the earthquake data from the United States Geological Survey (USGS) using the coordinates (longitute, latitude) of the geoJSON dataset that updates every 5 minutes.  `
+`The primary objective of this project is to create a visualization map of the earthquake data from the United States Geological Survey (USGS) using the coordinates (longitute, latitude) of the geoJSON dataset that updates every 5 minutes. `
+
+![USGS Map of Earthquake](https://github.com/mjardinico/leaflet-challenge/blob/main/Leaflet-Part-1/Images/BasicMap2.png) 
 
 ### Methodology
 `The study utilized a comprehensive approach, incorporating a mix of quantitative and qualitative data. This included analysis of global pollution data, ecological studies, wildlife impact assessments, and socio-economic impacts of plastic waste. Furthermore, expert opinions, historical data trends, and future projections were also considered.`
@@ -84,3 +86,6 @@ Hannah Ritchie, Veronika Samborska and Max Roser (2023) - “Plastic Pollution�
 
 9. Sahoo, Soumendra Kumar. “Usage of Forward Slash (/) in Python.” DEV Community, DEV Community, 6 Dec. 2022, dev.to/soumendrak/usage-of-forward-slash-in-python-41no. 
 Stoel, Geoffrey. “Why Can’t Pandas Handle Decimals for Plotting?” Stack Overflow, 1 Nov.1961,stackoverflow.com/questions/33488542/why-cant-pandas-handle-decimals-for-plotting
+
+
+[def]: https://github.com/mjardinico/leaflet-challenge/blob/main/Leaflet-Part-1/Images/BasicMap2.png
