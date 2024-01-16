@@ -48,7 +48,7 @@
 8. Depth Legend:
     - Create a legend for the earthquake depths with their preset values.
     - This legend can be created as an HTML element, and you can style it as needed.
-    - Add the legend to the map using Leaflet's `L.control()` or by directly appending it to the HTML document. In this code, it was added to the HTML using CSS. 
+    - Add the legend to the map using Leaflet's `L.control()` or by directly appending it to the HTML document. In this code, it was added to the HTML using CSS. Refer to `/static/style.css`
     
     ![Depth Legend](https://github.com/mjardinico/leaflet-challenge/blob/main/Leaflet-Part-1/Images/depth_legend.png).
 
