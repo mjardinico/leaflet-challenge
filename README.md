@@ -10,9 +10,10 @@
 
 
 ### Working Files
-1. `/Leaflet-Part-1/index.html`
-2. `/Leaflet-Part-1/static/css/style.css`
-3. `/Leaflet-Part-1/static/js/logic.js`
+1. `/Resources/Starter_Code.zip`
+2. `/Leaflet-Part-1/index.html`
+3. `/Leaflet-Part-1/static/css/style.css`
+4. `/Leaflet-Part-1/static/js/logic.js`
     
 ### Instructions
 1. GitHub Repository Setup:
